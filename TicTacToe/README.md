@@ -20,7 +20,6 @@ This project demonstrates **function-based programming, input validation, game l
 ## 🛠️ Technologies Used
 
 - C++
-- Object-Oriented Programming Concepts
 - Functions
 - Conditional Statements
 - Loops
